@@ -1,4 +1,4 @@
-# Olá, eu sou o André 👍 <h1>
+# Olá, eu sou o André 👍 <h2>
   
   <div align="center">
   <a href="https://github.com/AndrePcastelo">
@@ -32,9 +32,9 @@
 # Informações pessoais básicas/basic personal information <h1> 
   
  
-    -Idade/years: 16 
+    -Idade/years: 17 
     -País/Country: Brazil
     -Estado/state: São Paulo
-    -Tecnologias/technologies: Python, java scripts and html e css
-    -estudando/studying: python, java scripts and html e css
+    -Tecnologias/technologies: Python, java scripts, html e css
+    -estudando/studying: python, java scripts, html and css
     -idiomas/languages: protuguês (BR) and english
