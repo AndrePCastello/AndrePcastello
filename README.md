@@ -1,6 +1,4 @@
-<h1> Olá, eu sou o André 👍 </h1>
-
-
+<h1> Olá, eu sou o André </h1>
 
 
   <div align="center">
@@ -12,7 +10,8 @@
   <img align="left" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="left" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="left" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
+  <img align="left" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="left" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   
 </div>
     
@@ -27,15 +26,10 @@
     <a href = "andreperezcastelo@protonmail.ch"><img src=https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white target="_blank"></a>
   </div>  
     
-
-    
-##    
-# Informações pessoais básicas/basic personal information <h1> 
-  
- 
-    -Idade/years: 17 
-    -País/Country: Brazil
-    -Estado/state: São Paulo
-    -Tecnologias/technologies: Python, java scripts, html e css
-    -estudando/studying: python, java scripts, html and css
-    -idiomas/languages: protuguês (BR) and english
+<h1> Informações pessoais básicas/basic personal information </h1> 
+<div align= "left">  
+  <p>-País/Country: Brazil</p>
+  <p>-Estado/state: São Paulo</p>
+  <p>-Tecnologias/technologies: Python, java scripts, html, css, react e Django</p>
+  <p>-idiomas/languages: protuguês (BR) and english</p>
+    </div>
