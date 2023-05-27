@@ -19,14 +19,12 @@
     
 ##  
     
+   
     
-  <div>  
-    <a href=https://www.youtube.com/channel/UCkdr-Oy_O2qOBiw8du6q42w target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href=https://www.instagram.com/g.knowan/ target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "andreperezcastelo@protonmail.ch"><img src=https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white target="_blank"></a>
-  </div>  
-    
+
 <h1> Informações pessoais básicas/basic personal information </h1> 
+    
+    
 <div align= "left">  
   <p>-País/Country: Brazil</p>
   <p>-Estado/state: São Paulo</p>
