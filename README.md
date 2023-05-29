@@ -20,10 +20,9 @@
 ##  
     
    
-    
-
-<h1> Informações pessoais básicas/basic personal information </h1> 
-    
+ <div margin='30'>
+   <h1 align= 'left'> Informações pessoais básicas/basic personal information </h1> 
+    </div>    
     
 <div align= "left">  
   <p>-País/Country: Brazil</p>
