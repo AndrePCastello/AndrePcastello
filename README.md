@@ -1,7 +1,7 @@
 # Bonjour, Je Suis André P.Castello 🇧🇷 🇵🇹 🇮🇹 - 🇫🇷
 
 
-<p>Sou um brasileiro apaixonado por programação, livros e bien sûr Francês.</p>
+<p>Sou um brasileiro apaixonado por programação, livros e bien sûr, Francês.</p>
 <br>
 <br>
 
